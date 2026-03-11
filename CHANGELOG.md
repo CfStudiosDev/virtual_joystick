@@ -9,7 +9,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ### Added
 
-- **Core:** Initial implementation of the `VirtualJoystick` node with full 2D support for Godot 4.x.
+- **Core:** Initial implementation of the `VirtualJoystick` node with full 2D support for Godot 4.5 or later.
 - **Direction Modes:** Support for 2-way (Horizontal/Vertical), 4-way, 8-way, and 360° (Analog) movement snapping.
 - **Tactile Feedback:** Integrated vibration support for Android and iOS devices with adjustable force.
 - **Input Simulation:** Automatic triggering of `InputMap` actions, allowing seamless integration with `Input.get_vector()`.

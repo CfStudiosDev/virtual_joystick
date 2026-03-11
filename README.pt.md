@@ -11,7 +11,7 @@
 
 [![Godot Engine][godot-badge]][godot-link] [![Version][changelog-badge]][changelog-link] [![MIT License][license-badge]][license-link]
 
-Um Joystick Virtual profissional, de alta performance e pronta para uso. Projetado especificamente para jogos mobile no Godot 4.x.
+Um Joystick Virtual profissional, de alta performance e pronta para uso. Projetado especificamente para jogos mobile no Godot 4.5 ou superior.
 
 ## 🌎 Linguagem
 
@@ -135,4 +135,4 @@ Se este plugin for útil para o seu projeto, a atribuição de créditos à **CF
 [license-badge]: https://img.shields.io/badge/license-MIT-blue
 [license-link]: LICENSE
 [godot-link]: https://godotengine.org/
-[godot-badge]: https://img.shields.io/badge/Godot-4.x-blue?logo=godot-engine&logoColor=white
+[godot-badge]: https://img.shields.io/badge/Godot-4.5+-blue?logo=godot-engine&logoColor=white
