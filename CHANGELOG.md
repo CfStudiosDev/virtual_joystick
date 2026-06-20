@@ -5,6 +5,11 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [2.0.0] - 2026-06-20
+
+- **Plugin Renaming:** Renamed the plugin to **Virtual Joystick CF**, and updated the `class_name` and scenes to `VirtualJoystickCF` to prevent conflicts with the new native Virtual Joystick node introduced in Godot 4.7.
+- **Refactoring:** Full refactor of the folder structure and internal paths to reflect the new nomenclature.
+
 ## [1.0.0] - 2026-03-11
 
 ### Added
