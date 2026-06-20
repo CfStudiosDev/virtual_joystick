@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://cc4dh6a2fe0dn"
-path="res://.godot/imported/virtual_joystick_logo_light.png-a8ee05439b9e4d6e889ad5d26e040375.ctex"
+path="res://.godot/imported/virtual_joystick_cf_logo_light.png-0df7d79926d751a0ec94c725a2c608c2.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://assets/virtual_joystick_logo_light.png"
-dest_files=["res://.godot/imported/virtual_joystick_logo_light.png-a8ee05439b9e4d6e889ad5d26e040375.ctex"]
+source_file="res://assets/virtual_joystick_cf_logo_light.png"
+dest_files=["res://.godot/imported/virtual_joystick_cf_logo_light.png-0df7d79926d751a0ec94c725a2c608c2.ctex"]
 
 [params]
 
